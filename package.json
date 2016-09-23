@@ -9,6 +9,12 @@
 	},
 	"author": "Rolf Koenders <@rolfkoenders>",
 	"license": "MIT",
+  "keywords": [
+    "slackbotify",
+    "butler",
+    "vid",
+    "slack"
+  ],
 	"dependencies": {
     "cheerio": "^0.22.0",
     "request": "^2.74.0"
